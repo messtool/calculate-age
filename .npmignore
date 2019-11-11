@@ -1,0 +1,5 @@
+node_module/
+.gitignore
+.nyc_output
+.nycrc
+.travis.yml
