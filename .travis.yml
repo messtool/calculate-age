@@ -5,4 +5,4 @@ before_script:
 
 script:
   - npm test
-  - npm coverage
+  - npm run coverage
